@@ -4,7 +4,7 @@
 
 **Status:** 🚧 In Development
 
-**Current Instrument:** NIFTY 50
+**Current Instrument:** NIFTY 50 INDEX
 **Current Data Source:** Angel One Smart API
 **Storage:** Apache Parquet
 **Language:** Python
@@ -15,7 +15,7 @@
 
 `quant-data-pipeline-engine` is an extensible financial data pipeline project designed to convert raw market data into clean, validated, and research-ready datasets.
 
-The initial implementation focuses on **NIFTY 50 OHLC data** using the **Angel One Smart API**.
+The initial implementation focuses on **NIFTY 50 INDEX OHLC data** using the **Angel One Smart API**.
 
 The architecture will gradually evolve to support multiple instruments and data providers.
 
